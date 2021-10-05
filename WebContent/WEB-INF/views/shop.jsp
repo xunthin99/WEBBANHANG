@@ -383,7 +383,7 @@ FACEBOOK: https://www.facebook.com/themefisher
 			        				<h2 class="product-title">${pd.tenHang}</h2>
 			        				<p class="product-price">${pd.gia }</p>
 			        				<p class="product-short-description">
-			        					${pd.chiTiet }
+			        					${pd.chiTiet } 123
 			        				</p>
 			        				<a href="cart.html" class="btn btn-main">Add To Cart</a>
 			        				<a href="product-single.html" class="btn btn-transparent">View Product Details</a>
